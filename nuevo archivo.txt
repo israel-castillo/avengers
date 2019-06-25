@@ -1,0 +1,5 @@
+Esto es un archivo txt
+Archivo de prueba para curso de udemy.
+
+
+Paso final borrar el archivo.
